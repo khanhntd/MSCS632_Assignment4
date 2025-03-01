@@ -87,7 +87,7 @@ class ShiftScheduler {
   }
 }
 
-// Example usage
+
 const scheduler = new ShiftScheduler();
 const preferences = {
   Alice: {
